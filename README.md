@@ -1,6 +1,6 @@
 ## Attached is a dataset named "MasterTable" showing a subset of sales over a specific period and the repayment rate. ##
 
-** Deliverable (1) **
+**Deliverable (1)**
 • Analysis of  the data and insights using a PowerPoint presentation
 • Initiatives to improve the credit performance of the market
 • Other pieces of analysis to do and which additional data would be needed
